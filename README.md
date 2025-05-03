@@ -34,23 +34,10 @@ To get started, clone the repository to your local machine using Git Bash.
    You can do this by double-clicking the .sln file, or by opening Visual Studio and selecting "Open a Project or Solution" and navigating to the solution file.
 
 
-## Change the Startup Project
-To run all the projects, you need to set one of them as the startup project.
-
-1. Right-click on the project you want to set as the startup project in Solution Explorer.
-2. Choose Set as StartUp Project.
-    If you want to run multiple projects simultaneously, you can configure multiple startup projects:
-    - Right-click on the solution in Solution Explorer and select Properties.
-    - In the Common Properties section, select Startup Project.
-    - Choose Multiple Startup Projects and set the action for the projects you want to run to Start.
-    - This way, all selected projects will start.
-
-
 ## Running the Projects
-After setting the startup project, you can run the projects using the following method:
+You can run the projects using the following method:
 
-1. Press Ctrl+F5 key or click 'Start Without Debugging' in Visual Studio to run the startup project.
-2. If you have configured multiple startup projects, all selected projects will run simultaneously.
+1. Press Ctrl+F5 key or click 'Start Without Debugging' in Visual Studio to run the project.
 
 ---
 This repository is developed with assistance from ChatGPT.
