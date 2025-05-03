@@ -1,4 +1,4 @@
-# CG_A2_202112354
+# CG_A5_202112354
 
 This repository contains a solution with three projects. Follow the instructions below to download the solution, set up the startup project, and run all three projects.
 
