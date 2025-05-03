@@ -293,7 +293,7 @@ int main(int argc, char* argv[])
 		return -1;
 
 	/* Create a windowed mode window and its OpenGL context */
-	window = glfwCreateWindow(Width, Height, "OpenGL Viewer", NULL, NULL);
+	window = glfwCreateWindow(Width, Height, "Rasterizer", NULL, NULL);
 	if (!window)
 	{
 		glfwTerminate();
